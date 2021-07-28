@@ -74,7 +74,7 @@
       <leatherDef>Leather_Bluefur</leatherDef>
       <gestationPeriodDays>28</gestationPeriodDays>
       <wildness>0.2</wildness>
-      <trainability>Simple</trainability>
+      <trainability>None</trainability>
       <packAnimal>true</packAnimal>
       <lifeExpectancy>15</lifeExpectancy>
       <lifeStageAges>
